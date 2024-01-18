@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevinrevgtm
-- 👀 I’m interested in learning how developer communities work...
-- 📫 How to reach me ...https://www.revgtm.com/
+- 👀 I’m interested and testing the small bets approach to building vs the big bets I have taken in the past...
+- 📫 How to reach me ...https://www.revgtm.com/, https://www.linkedin.com/in/nakao/, https://twitter.com/knakao
 - ⚡ Fun fact: I use to be an oyster farmer
 
 <!---
